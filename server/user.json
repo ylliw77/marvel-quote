@@ -1,0 +1,20 @@
+[
+    {
+    "fullName":"Laurie Marqueton",
+    "email": "nutella_thief@mail.com",
+    "password": "secret",
+    "phoneNumber": "999999",
+    "profilPicture": "https://p16.tiktokcdn-us.com/tos-useast5-avt-0068-tx/94bb98150cc6658645b86f5ef0e419bd~c5_720x720.jpegU",
+    "address": "123 Main Street",
+    "isSubcribed": "subscribed"
+  },
+  {
+    "fullName":"Nurhadi",
+    "email": "nurhadi@mail.com",
+    "password": "secret",
+    "phoneNumber": "9696696996",
+    "profilPicture": "https://media.suara.com/pictures/653x366/2019/01/05/11583-calon-presiden-fiktif-nurhadi-instagram-atnurhadi-aldo.jpg",
+    "address": "Golantepus, Mejobo, Kabupaten Kudus. ",
+    "isSubcribed": "not subscribed"
+  }
+]
